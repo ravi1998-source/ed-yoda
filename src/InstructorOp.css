@@ -1,0 +1,28 @@
+.instructorop {
+    display: flex;
+}
+
+.instructorop > img {
+    width: 41px;
+    height: 41px;
+    left: 35px;
+    top: 109px;
+    margin-left: 30px;
+    margin-top: 12px;
+}
+
+.instructorop > h4 {
+    width: 77px;
+height: 21px;
+left: 91px;
+top: 119px;
+margin-left: 20px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+color: #15294B;
+}
+

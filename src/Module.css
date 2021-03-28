@@ -1,0 +1,33 @@
+.module {
+    display: flex;
+}
+
+.module__sidebar{
+    position: fixed;
+    width: 250px;
+    height: 1771px;
+    left: 8px;
+    top: 129px;
+    background: rgba(205, 214, 229, 0.5);
+    padding-top: 35px ;
+    padding-left: 20px;
+    margin-left: 140px;
+    margin-top: 40px;
+} 
+
+.module__sidebar__h1 {
+    width: 104px;
+height: 30px;
+left: 35px;
+top: 40px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 30px;
+/* identical to box height, or 120% */
+color: #15294B;
+margin-left: 100px;
+
+}

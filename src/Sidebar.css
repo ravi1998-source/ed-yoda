@@ -1,0 +1,13 @@
+.sidebar {
+    position: fixed;
+    width: 120px;
+    height: 1502px;
+    left: 8px;
+    top: 129px;
+    background: #15294B;
+    padding-top: 35px ;
+    padding-left: 20px;
+    border: 1px black;
+}
+  
+

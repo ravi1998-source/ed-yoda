@@ -1,0 +1,81 @@
+.javascript {
+    
+    background-color: #E5E5E5;
+    margin-left: 390px; 
+    margin-bottom: 300px ;
+    height: 200%;
+    width: auto;
+}
+
+.javascript__title{
+    margin-left: 120px;
+}
+
+.javascript__title > h1 {
+    width: 123px;
+height: 29px;
+left: 467px;
+top: 171px;
+font-family: Raleway;
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 29px;
+
+color: rgba(0, 0, 0, 0.0.9);
+}
+
+.javascript__title > h2 {
+    width: 134px;
+height: 14px;
+left: 467px;
+top: 205px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+
+color: rgba(0, 0, 0, 0.75);
+}
+
+.javascript__content {
+    margin-left: 100px;
+}
+
+
+.javascript__content > p {
+    width: 105px;
+    height: 21px;
+    left: 467px;
+    top: 269px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+/* identical to box height */
+  color: rgba(0, 0, 0, 0.9);
+
+}
+
+.javascript__content > ol {
+    width: 610px;
+height: 150px;
+left: 467px;
+top: 300px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+
+color: rgba(0, 0, 0, 0.9);
+
+}

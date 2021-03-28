@@ -1,0 +1,29 @@
+.moduleside{
+    display: flex;
+}
+
+.moduleside > img {
+    width: 30px;
+height: 30px;
+left: 35px;
+top: 95px;
+margin-top: 10px;
+background: linear-gradient(90deg, rgba(241, 125, 41, 0.75) 0%, rgba(228, 77, 38, 0.75) 100%);
+}
+
+.moduleside > p {
+    width: 59px;
+height: 21px;
+left: 80px;
+top: 100px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+color: #15294B;
+margin-left: 20px;
+}
+

@@ -1,0 +1,21 @@
+.instructor {
+    display: flex;
+}
+
+.instructor > h1 {
+    margin-left: 200px;
+    margin-bottom: 200px;
+}
+
+.instructor__sidebar{
+    position: fixed;
+    width: 250px;
+    height: 1771px;
+    left: 8px;
+    top: 129px;
+    background: rgba(205, 214, 229, 0.5);
+    padding-top: 35px ;
+    padding-left: 20px;
+    margin-left: 140px;
+    margin-top: 40px;
+} 
